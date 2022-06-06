@@ -1,0 +1,12 @@
+{
+  "name": "ts-examples",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bbasli/ts-examples.git",
+  "author": "bbasli <43937051+bbasli@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.3"
+  }
+}
